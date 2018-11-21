@@ -1,0 +1,75 @@
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Balanca3.Form1.resources
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Balanca3.tlSalvar.resources
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Brainiac.csproj.GenerateResource.cache
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Brainiac.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Brainiac.csprojAssemblyReference.cache
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\bin\Debug\Brainiac.exe.config
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\bin\Debug\Brainiac.exe.manifest
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\bin\Debug\Brainiac.application
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\bin\Debug\Brainiac.exe
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\bin\Debug\Brainiac.pdb
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Brainiac.Properties.Resources.resources
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Brainiac.exe.manifest
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Brainiac.application
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Brainiac.exe
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Brainiac.pdb
+D:\Balança\Balanca3\Balanca3\bin\Debug\Brainiac.exe.config
+D:\Balança\Balanca3\Balanca3\bin\Debug\Brainiac.exe.manifest
+D:\Balança\Balanca3\Balanca3\bin\Debug\Brainiac.application
+D:\Balança\Balanca3\Balanca3\bin\Debug\Brainiac.exe
+D:\Balança\Balanca3\Balanca3\bin\Debug\Brainiac.pdb
+D:\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.csprojAssemblyReference.cache
+D:\Balança\Balanca3\Balanca3\obj\Debug\Balanca3.Form1.resources
+D:\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.Properties.Resources.resources
+D:\Balança\Balanca3\Balanca3\obj\Debug\Balanca3.tlSalvar.resources
+D:\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.csproj.GenerateResource.cache
+D:\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.csproj.CoreCompileInputs.cache
+D:\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.exe.manifest
+D:\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.application
+D:\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.exe
+D:\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.pdb
+C:\Users\Thiago\Downloads\Balança-20181005T144031Z-001\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.csprojAssemblyReference.cache
+C:\Users\Thiago\Downloads\Balança-20181005T144031Z-001\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.exe
+C:\Users\Thiago\Downloads\Balança-20181005T144031Z-001\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.pdb
+C:\Users\Thiago\Downloads\Balança-20181005T144031Z-001\Balança\Balanca3\Balanca3\bin\Debug\Brainiac.exe.config
+C:\Users\Thiago\Downloads\Balança-20181005T144031Z-001\Balança\Balanca3\Balanca3\bin\Debug\Brainiac.exe.manifest
+C:\Users\Thiago\Downloads\Balança-20181005T144031Z-001\Balança\Balanca3\Balanca3\bin\Debug\Brainiac.application
+C:\Users\Thiago\Downloads\Balança-20181005T144031Z-001\Balança\Balanca3\Balanca3\bin\Debug\Brainiac.exe
+C:\Users\Thiago\Downloads\Balança-20181005T144031Z-001\Balança\Balanca3\Balanca3\bin\Debug\Brainiac.pdb
+C:\Users\Thiago\Downloads\Balança-20181005T144031Z-001\Balança\Balanca3\Balanca3\obj\Debug\Balanca3.Form1.resources
+C:\Users\Thiago\Downloads\Balança-20181005T144031Z-001\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.Properties.Resources.resources
+C:\Users\Thiago\Downloads\Balança-20181005T144031Z-001\Balança\Balanca3\Balanca3\obj\Debug\Balanca3.tlSalvar.resources
+C:\Users\Thiago\Downloads\Balança-20181005T144031Z-001\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.csproj.GenerateResource.cache
+C:\Users\Thiago\Downloads\Balança-20181005T144031Z-001\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Downloads\Balança-20181005T144031Z-001\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.exe.manifest
+C:\Users\Thiago\Downloads\Balança-20181005T144031Z-001\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.application
+E:\Visual Studio\Balança\Balanca3\Balanca3\bin\Debug\Brainiac.exe.config
+E:\Visual Studio\Balança\Balanca3\Balanca3\bin\Debug\Brainiac.exe.manifest
+E:\Visual Studio\Balança\Balanca3\Balanca3\bin\Debug\Brainiac.application
+E:\Visual Studio\Balança\Balanca3\Balanca3\bin\Debug\Brainiac.exe
+E:\Visual Studio\Balança\Balanca3\Balanca3\bin\Debug\Brainiac.pdb
+E:\Visual Studio\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.csprojAssemblyReference.cache
+E:\Visual Studio\Balança\Balanca3\Balanca3\obj\Debug\Balanca3.Form1.resources
+E:\Visual Studio\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.Properties.Resources.resources
+E:\Visual Studio\Balança\Balanca3\Balanca3\obj\Debug\Balanca3.tlSalvar.resources
+E:\Visual Studio\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.csproj.GenerateResource.cache
+E:\Visual Studio\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.exe.manifest
+E:\Visual Studio\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.application
+E:\Visual Studio\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.exe
+E:\Visual Studio\Balança\Balanca3\Balanca3\obj\Debug\Brainiac.pdb
+C:\Users\Thiago\Desktop\Balança\Balanca3\bin\Debug\Brainiac.exe.config
+C:\Users\Thiago\Desktop\Balança\Balanca3\bin\Debug\Brainiac.exe.manifest
+C:\Users\Thiago\Desktop\Balança\Balanca3\bin\Debug\Brainiac.application
+C:\Users\Thiago\Desktop\Balança\Balanca3\bin\Debug\Brainiac.exe
+C:\Users\Thiago\Desktop\Balança\Balanca3\bin\Debug\Brainiac.pdb
+C:\Users\Thiago\Desktop\Balança\Balanca3\obj\Debug\Brainiac.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\Balança\Balanca3\obj\Debug\Balanca3.Form1.resources
+C:\Users\Thiago\Desktop\Balança\Balanca3\obj\Debug\Brainiac.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Balança\Balanca3\obj\Debug\Balanca3.tlSalvar.resources
+C:\Users\Thiago\Desktop\Balança\Balanca3\obj\Debug\Brainiac.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\Balança\Balanca3\obj\Debug\Brainiac.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Balança\Balanca3\obj\Debug\Brainiac.exe.manifest
+C:\Users\Thiago\Desktop\Balança\Balanca3\obj\Debug\Brainiac.application
+C:\Users\Thiago\Desktop\Balança\Balanca3\obj\Debug\Brainiac.exe
+C:\Users\Thiago\Desktop\Balança\Balanca3\obj\Debug\Brainiac.pdb

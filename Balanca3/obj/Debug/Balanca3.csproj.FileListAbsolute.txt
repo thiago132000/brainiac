@@ -1,0 +1,15 @@
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\bin\Debug\Balanca3.exe.config
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\bin\Debug\Balanca3.exe
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\bin\Debug\Balanca3.pdb
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Balanca3.csprojAssemblyReference.cache
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Balanca3.Form1.resources
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Balanca3.Properties.Resources.resources
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Balanca3.csproj.GenerateResource.cache
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Balanca3.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Balanca3.exe
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Balanca3.pdb
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Balanca3.tlSalvar.resources
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\bin\Debug\Balanca3.exe.manifest
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\bin\Debug\Balanca3.application
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Balanca3.exe.manifest
+C:\Users\Thiago\source\repos\Balanca3\Balanca3\obj\Debug\Balanca3.application
